@@ -1,0 +1,15 @@
+.app-title{
+  text-align: center;
+  font-size: 28px;
+  font-weight: bold;
+  color: #f11a1a;
+  text-decoration: underline;
+  
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+.app-container{
+  background: linear-gradient(to top,white,rgb(176, 241, 158));
+  height:100vh;
+}
